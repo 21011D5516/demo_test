@@ -1,0 +1,4 @@
+This is created using linux command
+touch master.txt
+and opened using
+notepad master.txt 
